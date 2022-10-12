@@ -12,5 +12,5 @@
 ![SQL](https://img.shields.io/badge/-Sql-003140?style=for-the-badge&logo=mySQL&logoColor=FF4500)
 ![Python](https://img.shields.io/badge/-Python-003140?style=for-the-badge&logo=Python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0teL&layout=compact&theme=tokyonight&hide_border=true&bg_color=031214&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0teL&layout=compact&theme=tokyonight&hide_border=true&bg_color=45,031214,003140&title_color=fff&text_color=fff&card_width=650)](https://github.com/anuraghazra/github-readme-stats)
 
