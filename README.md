@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/-Python-003140?style=for-the-badge&logo=Python)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0teL&layout&layout=compact&theme=tokyonight&hide_border=true&bg_color=45,031214,003140&title_color=fff&text_color=fff&card_width=750&hide=python)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contacts: 
