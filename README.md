@@ -1,6 +1,6 @@
 ![Header](https://github.com/Pr0teL/Pr0teL/blob/main/assets/1584023795.gif)
 
-## I`m Web developer
+## Web developer
 
 ### Languages and tools 
 ![HTML](https://img.shields.io/badge/-HTML-003140?style=for-the-badge&logo=HTML5)
